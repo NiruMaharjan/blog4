@@ -1,0 +1,17 @@
+{
+    "blogs":[
+        {
+            "title" : "Pridev Blog",
+            "body" : "This is a pridev blog",
+            "author": "pridev joshi",
+            "id" :1
+
+        },
+        {
+            "title" : "Sisan Baniya",
+            "body"  :"This is Sisan blog",
+            "author":"Sisan Baniya",
+            "id" :2
+        }
+    ]
+}
